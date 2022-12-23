@@ -1,14 +1,21 @@
 # noapp-assignment
 no app assignment using workers
 
-## For install
-run npm i
+## For install packages
 
-## Packages used
+  npm i
+
+## Run server
+
+  npm run start
+
+## Packages & requirements
+
   ### csvtojson - for convert csv file data to json
-  ### multer for file upload
-  ### jsonwebtoken for authentication
-  ### mongoose for connecting mongo database
+  ### multer - for file upload
+  ### jsonwebtoken - for authentication
+  ### mongoose - for connecting mongo database
+  ### sample CSV file - uploaded for reference
 
 ## API Curl
 
